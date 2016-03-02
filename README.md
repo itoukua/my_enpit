@@ -1,4 +1,3 @@
 testdesu
 dasu
 datte!
-umu
